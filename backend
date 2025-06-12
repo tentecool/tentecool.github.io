@@ -1,7 +1,7 @@
 import requests
 import time
 
-TOKEN = "<8053196908:AAE5vowAq5uJd6OiYaDGI6hpJfYTa9-jfxs>"
+TOKEN = "8053196908:AAE5vowAq5uJd6OiYaDGI6hpJfYTa9-jfxs"
 URL = f"https://api.telegram.org/bot{TOKEN}/getUpdates"
 
 offset = 0
